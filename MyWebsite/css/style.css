@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+input {
+  width: 50vh;
+  border: none;
+  display: flex;
+  padding: 10px;
+  border-radius: 10px;
+  flex-direction: column;
+  column-gap: unset;
+  margin: 10px auto;
+}
+
+/* button {} */
